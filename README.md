@@ -1,4 +1,4 @@
-### Calculator for Genius
+# Calculator for Genius
 Genius Calculator on JavaScript.
 </br>
 Have fun!
